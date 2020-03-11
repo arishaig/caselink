@@ -1,0 +1,11 @@
+{
+    "name": "CaseLink",
+    "description": "Opens the SR or IcM you selected.",
+    "version": "0.0.1",
+    "permissions": ["contextMenus"],
+    "background": {
+      "persistent": false,
+      "scripts": ["background.js"]
+    },
+    "manifest_version": 2
+  }
